@@ -1,5 +1,5 @@
 const API_BASE_URL = 'https://api.wunderground.com/api'
-const API_KEY = 'ba0cc07a93e36edd'
+const API_KEY = '***TU***API***KEY***'
 const API_LANG = 'SP'
 
 export function getForCity(city) {

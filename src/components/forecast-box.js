@@ -53,9 +53,6 @@ class ForecastBox extends Component{
 const styles = StyleSheet.create({
   text: {
     flex: 1,
-    margin: 5,
-    padding: 5,
-    borderRadius: 10,
     textAlign: 'center',
     backgroundColor: 'rgba(0,0,0,0.5)',
     fontSize: 27,
